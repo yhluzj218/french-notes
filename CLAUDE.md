@@ -64,6 +64,10 @@ Anki Exported At: YYYY-MM-DD
 08_ai/anki/
   weekly/                 ← 定期把 Knowledge Base 裡 Anki Status = Pending
                              的筆記轉成 Anki 卡
+08_ai/audio/
+  dialogues/              ← 簡單對話聽力腳本
+  shadowing/              ← 單句跟讀腳本
+  chants/                 ← 單字/句型記憶 chant
 09_coach/
   dashboard.md            ← 單一入口，只有真的有資料後才需要頻繁更新
   profile.md              ← 學習者背景、程度估計、Evidence Log
@@ -105,6 +109,98 @@ Anki Exported At: YYYY-MM-DD
 3. 哪些知識該做 Anki（`Anki Status: Pending` 的筆記）
 
 **不建立四科分數資料庫。**
+
+## Audio 練習功能（Chant / Shadowing / 簡單對話聽力）
+
+素材直接來自使用者已收錄在 Knowledge Base 的內容，**不需要**外部來源研究或真實性驗證流程。三個指令各自獨立，可單獨呼叫，不用先跑 gate 判斷輸入類型。
+
+### 觸發指令
+
+- `產生本週對話` → dialogues
+- `產生 shadowing` → shadowing
+- `產生 chant` → chants
+
+### 共同的素材來源規則
+
+執行任何一個指令前，先讀：
+
+- `10_knowledge_base/vocabulary/`（依 frontmatter 建立日期或 `Learning Status: New/Learning` 篩出本週/近期新收錄的條目）
+- `10_knowledge_base/sentence_patterns/`（同樣篩近期新增的）
+
+如果篩不到任何近期新增的條目 → 回覆：
+「本週還沒有新收錄的單字或句型，先用『收錄單字』或『萃取知識』累積內容，再回來產生這個。」
+**不要在沒有素材的情況下自己編內容硬生。**
+
+素材選定後，向使用者確認一次：
+「這次會用到：[列出選中的單字/句型]，要用這些嗎？還是你想指定別的？」
+確認後才產生，避免每次都選到使用者其實不想練的條目。
+
+### 產出 1 — 簡單對話聽力（dialogues）
+
+- 用選定的單字/句型，寫一段 2 人、5–8 輪的生活情境對話（例如：點餐、問路、自我介紹、約時間），難度對應目前程度（A1 用簡單現在式、常見情境）
+- 格式：純對話文字稿，不需要 ElevenLabs 語音標記，先只產生文字稿
+- 存到：`08_ai/audio/dialogues/YYYY-MM-DD_主題.md`
+- 檔案內容包含：
+
+```
+# 對話：[主題]
+日期：YYYY-MM-DD
+使用的單字/句型：[列出來源連結]
+
+## 對話
+A: ...
+B: ...
+
+## 使用到的重點
+[單字/句型]：出現在第幾句、為什麼選這句情境
+```
+
+### 產出 2 — Shadowing（單句跟讀）
+
+- 從選定的句型裡挑 1–2 個最重要的，拆成單句，每句重複 2–3 次，中間留跟讀空隙標記
+- Pause 標記固定用 3 秒的倍數：`[pause 3 seconds]`、`[pause 6 seconds]`
+- 存到：`08_ai/audio/shadowing/YYYY-MM-DD_句型slug.md`
+- 結構：
+
+```
+# Shadowing：[句型]
+[句子 1]
+[pause 3 seconds]
+[句子 1]
+[pause 3 seconds]
+[句子 1，稍快語速版]
+[pause 6 seconds]
+```
+
+### 產出 3 — Chant（單字/句型記憶）
+
+- 格式要求：1 分鐘內、短句、強重複、有明確 chorus
+- 先固定一種節奏，等之後真的需要變化再擴充
+- 每份只練當週選定的單字/句型，**不要一次塞多個主題**
+- 存到：`08_ai/audio/chants/YYYY-MM-DD_主題slug.md`
+- 結構：
+
+```
+# Chant：[主題]
+## 歌詞
+[verse]
+[chorus]
+[verse]
+[chorus]
+
+## 用到的單字/句型
+[列出，附 Knowledge Base 連結]
+
+## Suno Prompt（如果要生成音樂）
+Use my saved voice profile. [風格描述、清楚發音、跟讀空間、簡單旋律]
+```
+
+### 這個功能目前不做的事
+
+- 不做 Strict/Research-Assisted Mode 判斷（沒有外部來源需要驗證）
+- 不做多階段 gate router（三個指令各自獨立，不用先判斷輸入類型）
+- 不支援使用者臨時貼入其他素材當來源（先只吃 Knowledge Base，之後有需求再擴充）
+- 不自動生成音樂/語音檔案本身，只產生文字腳本 + Suno prompt（給使用者自己去生成）
 
 ## 第一版明確不要做的事
 
