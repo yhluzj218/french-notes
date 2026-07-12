@@ -16,10 +16,17 @@
 | 分類 | 條目數 |
 |---|---|
 | vocabulary | 0 |
-| expressions | 0 |
-| sentence_patterns | 0 |
-| grammar_notes | 0 |
-| pronunciation | 0 |
+| expressions | 2 |
+| sentence_patterns | 1 |
+| grammar_notes | 2 |
+| pronunciation | 2 |
 | error_corrections | 0 |
 
-*Last Updated: 2026-07-11*
+## 條目清單
+
+- expressions: [salutations](expressions/salutations.md)、[expressions-de-classe](expressions/expressions-de-classe.md)
+- sentence_patterns: [se-presenter](sentence_patterns/se-presenter.md)
+- grammar_notes: [tu-vs-vous](grammar_notes/tu-vs-vous.md)、[pronoms-personnels-sujets](grammar_notes/pronoms-personnels-sujets.md)
+- pronunciation: [voyelles-francaises](pronunciation/voyelles-francaises.md)、[intonation-question-affirmation](pronunciation/intonation-question-affirmation.md)
+
+*Last Updated: 2026-07-12*

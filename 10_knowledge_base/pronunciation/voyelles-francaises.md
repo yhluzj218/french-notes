@@ -1,0 +1,44 @@
+---
+Rule: 法語母音音素總表（拼寫 → IPA 對應）
+IPA: "[i] [e] [ɛ] [a] [o] [u] [y] [ø] [ɛ̃] [ɑ̃] [ɔ̃]"
+Description: 課堂教的 11 個母音音素（含 3 個鼻母音），每個音素對應的常見拼寫方式與例字。這是 Phase 1 聽辨訓練的核心素材。
+Examples:
+  - "[i] ← i, î, ï：dîner, naïf, lisser, il, si"
+  - "[e] ← é, er, ez：aller, blé, chez, décidé"
+  - "[ɛ] ← è, ê, ë, ai：très, forêt, Noël, belge, mais"
+  - "[a] ← a, â：avec, ami, Anne, voilà"
+  - "[o] ← au, ô, eau：Maud, diplôme, chaud, osé"
+  - "[u] ← ou：vous, bijou, goût, mou"
+  - "[y] ← u：tu, du, rue, une, sur"
+  - "[ø] ← eu, œu：je, deux, bœuf"
+  - "[ɛ̃] ← in, ain, un：lundi, simple, parfum, demain"
+  - "[ɑ̃] ← an, en, am, em：bande, enfant"
+  - "[ɔ̃] ← on, om：ombre, longue"
+Exceptions: 老師糾音重點：[ø] 需要「舌頭往後」。[i] vs [e] 是聽辨難點（décider vs décidé）。
+Source: Lesson 01（2026-07-11），課本 p.13
+Learning Status: Learning
+Anki Status: Pending
+---
+
+## 說明
+
+老師本週教母音，下週（2026-07-18）教子音。這張表同時涵蓋 [learning_strategy](../../09_coach/learning_strategy.md) 的第一層（聽辨）和第三層（拼字→IPA）的起點。
+
+## 課堂聽辨練習形式
+
+播放兩個詞，判斷發音 identique（相同）還是 différent（不同）。
+練過的詞組：l'épée / visité / fini / ici / mini / l'édit / amitié（重點：[i] vs [e]）
+
+## Phase 1 對應的 minimal pairs
+
+- [u] vs [y]：tout / tu、mou / mu　→ 2026-07-12 聽辨自測 10/10 過關
+- [e] vs [ɛ]：décidé / décider 尾音、blé / belge
+- [o] vs [ø]：chaud / deux
+- 鼻母音三分：[ɛ̃] demain / [ɑ̃] enfant / [ɔ̃] ombre
+
+## 自創記憶掛鉤（Connie 版）
+
+- **[u] vs [y]**：ou = 烏、u = ㄩ（拼字規則，無例外）
+- **[e]**：像中文「誒」但嘴更閉、嘴角橫拉（微笑狀），定住不滑動
+- **[ɛ]**：「被掐住脖子的 AA」——嘴巴垂直打開、往 [a] 靠，= KK 音標的 [ɛ]（bed）
+- 兩者差別一句話：**嘴巴開多大**（[e] 閉、[ɛ] 開）

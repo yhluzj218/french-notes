@@ -82,10 +82,19 @@ Anki Exported At: YYYY-MM-DD
 - `pronunciation/` 收可重複使用的發音**規則**（liaison、鼻母音、字尾不發音），跟單字卡上的 IPA 是不同層級
 - error_db.md 的 Category 可能值：`Grammar` `Pronunciation` `Gender` `Article` `Conjugation` `Spelling` `Listening` `Expression`（法語錯誤類型比英文文法錯誤更廣，用統一的 error_db.md + Category 分類，不拆成 grammar_db）
 
+## 學習策略：發音優先路線
+
+頂層策略定義在 `09_coach/learning_strategy.md`（三層能力、三階段順序、量化標準）。AI coach 必須依此對齊：
+
+- `start today` 出的任務要對應 dashboard 的 **Current Phase**（Phase 1 期間以音素、minimal pairs、聽辨為主，不排大量單字任務）
+- 目標不是背單字量，而是「看到新單字能依 IPA + 拼字規則念對 90%」；單字收錄時 IPA 是必填重點
+- 可重用的發音/拼字規則收進 `10_knowledge_base/pronunciation/`
+- 發音錯誤照常走三階段 confidence policy（Category: `Pronunciation`），**不建立**獨立的發音分數資料庫
+
 ## 指令行為
 
 ### `start today`
-讀 `09_coach/dashboard.md` + `09_coach/profile.md`，輸出今日任務。**不主動修改任何檔案。**
+讀 `09_coach/dashboard.md` + `09_coach/profile.md`（含 Current Phase，見學習策略），輸出今日任務。**不主動修改任何檔案。**
 
 ### `finish today`
 讀使用者回報，判斷影響哪些 DB，**只更新受影響部分**（遵守原則 2、3）。
