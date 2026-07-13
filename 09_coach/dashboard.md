@@ -27,7 +27,7 @@ Phase 1 — 征服所有法語音（2026-07 起，約 1 個月）
 
 <!-- 最近的 evidence_log.md 觀察，最多列 5 筆 -->
 
-（尚無）
+- 2026-07-13 — [i] vs [e] 聽辨困難（第一次練習，Forvo dis/des）；週四自測時重點回測
 
 ## Anki Queue
 
@@ -42,4 +42,4 @@ Pending: 7
   - 下週：課本 p.14–15，子音（consonnes）
 
 ---
-*Last Updated: 2026-07-12*
+*Last Updated: 2026-07-13*
