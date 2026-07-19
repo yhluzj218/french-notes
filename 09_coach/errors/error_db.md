@@ -11,3 +11,4 @@
 
 | ID | Category | Pattern | Error → Correct | Confidence | First Seen | Count | Status | Evidence |
 |---|---|---|---|---|---|---|---|---|
+| L001 | Listening | 前母音開合度／高度聽辨困難（[i]–[e]–[ɛ] 系列）| 相鄰前母音混淆（dis/des 聽成同音；[e]/[ɛ] 開合誤判）→ 正確：依嘴巴開合程度分層辨識，[i] 最閉→[e]→[ɛ]→[a] 最開 | Low | 2026-07-13 | 2 | Active | evidence_log 2026-07-13（dis/des、l'épée）、2026-07-19（500 ex p.45，12 題錯 5 題）|

@@ -5,9 +5,10 @@ Meaning: 見面問候與道別的完整用語組
 Register: 見下表（正式/非正式分列）
 Usage Context: 日常見面與道別
 Example: "Bonjour madame, vous allez bien ? — Très bien, merci."
-Source: Lesson 01（2026-07-11），課本 p.12 Activité 1
+Source: Lesson 01（2026-07-11），課本 p.12 Activité 1；Lesson 02（2026-07-18）補 Bof、Et toi ?/Et vous ?
 Learning Status: Learning
-Anki Status: Pending
+Anki Status: Exported
+Anki Exported At: 2026-07-18
 ---
 
 ## 問候
@@ -19,7 +20,11 @@ Anki Status: Pending
 | Ça va ? | 非正式 | = Vous allez bien ?（c'est pareil） |
 | Vous allez bien ? | 正式 | |
 
-回答：Très bien, merci / Ça va bien / Oui
+回答：Très bien, merci / Ça va bien / Oui / **Bof**（馬馬虎虎，Lesson 02）
+
+反問回去（Lesson 02 課堂大量演練）：
+- 對熟人：**Et toi ?** — « Ça va, et toi ? — Très bien. »
+- 正式：**Et vous ?** — « Bonjour Madame, vous allez bien ? — Très bien, merci. Et vous ? — Ça va bien, merci. »
 
 ## 道別
 

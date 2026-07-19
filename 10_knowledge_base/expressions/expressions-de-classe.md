@@ -5,17 +5,22 @@ Meaning: 上課時老師和學生的常用互動語
 Register: neutre
 Usage Context: 課堂上提問、請老師重複
 Example: "Tu peux répéter ? — Oui, encore une fois."
-Source: Lesson 01（2026-07-11）
+Source: Lesson 01（2026-07-11）；Lesson 02（2026-07-18）補 Écoutez / Complétez / Associez
 Learning Status: Learning
-Anki Status: Pending
+Anki Status: Exported
+Anki Exported At: 2026-07-19
 ---
 
 ## 老師常說
 
-- *Vous avez des questions ?* — 有問題嗎？
-- *Répétez après moi.* — 跟我重複
-- *Encore une fois.* — 再一次
-- *C'est pareil.* — 一樣的意思
+- *Vous avez des questions ?* /vu.za.ve de kɛs.tjɔ̃/ — 有問題嗎？
+- *Répétez après moi.* /ʁe.pe.te a.pʁɛ mwa/ — 跟我重複
+- *Encore une fois.* /ɑ̃.kɔʁ yn fwa/ — 再一次
+- *C'est pareil.* /sɛ pa.ʁɛj/ — 一樣的意思
+- *Écoutez.* /e.ku.te/ — 請聽（Lesson 02）
+- *Complétez les phrases.* /kɔ̃.ple.te le fʁaz/ — 完成句子（Lesson 02；ph = /f/）
+- *Associez.* /a.sɔ.sje/ — 配對（Lesson 02；聽力配對題指令）
+- *Bravo !* /bʁa.vo/ — 太棒了、做得好（稱讚用語）
 
 ## 我可以說
 

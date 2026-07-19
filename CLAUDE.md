@@ -62,8 +62,12 @@ Anki Exported At: YYYY-MM-DD
   YYYY-MM-DD_主題.md      ← 不分聽說讀寫資料夾，日期+主題單一存放；
                              等真的需要分技能追蹤再拆
 08_ai/anki/
-  weekly/                 ← 定期把 Knowledge Base 裡 Anki Status = Pending
-                             的筆記轉成 Anki 卡
+  decks/vocabulaire/      ← 現役單字卡：每個類別一個 md（時間、數字、人物、
+                             動物、物品、課堂…），一字一卡字典式格式
+  decks/phrases/          ← 現役句型卡：一句一個 md
+  done/                   ← 使用者回報「已錄入 Anki」的卡移到這裡，依類別
+                             合併保存（此資料夾內的移動不受「不移動來源檔案」
+                             限制——KB 來源檔案仍然不動，動的只是卡片檔）
 08_ai/audio/
   dialogues/              ← 簡單對話聽力腳本
   shadowing/              ← 單句跟讀腳本
@@ -77,6 +81,8 @@ Anki Exported At: YYYY-MM-DD
 10_knowledge_base/
   vocabulary/  expressions/  sentence_patterns/  grammar_notes/
   pronunciation/  error_corrections/  index.md
+  pronunciation/phonemes/ ← 34 張單音素深入卡（phoneme-*.md，全套固定，
+                             不再增減；規則類條目留在 pronunciation/ 根層）
 ```
 
 - `pronunciation/` 收可重複使用的發音**規則**（liaison、鼻母音、字尾不發音），跟單字卡上的 IPA 是不同層級
