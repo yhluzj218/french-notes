@@ -40,4 +40,4 @@ Anki Status: Pending
 
 - 字母 Y 的名字 /igʁɛk/ 是母音 /i/；當半母音時就是英文 yes 的 y
 
-相關：[[phoneme-i]]、[[phoneme-j]]、[[phoneme-l]]
+相關：[[phoneme-i]]、[[phoneme-j]]、[[phoneme-l]]、[[phoneme-in]]（bien /bjɛ̃/ 半母音+鼻母音組合）、[[phoneme-w]]（voyage 的 oy = /waj/ 也用到這個半母音）

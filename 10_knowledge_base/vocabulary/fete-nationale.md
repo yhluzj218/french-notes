@@ -14,4 +14,4 @@ Anki Exported At: 2026-07-18
 - **tio → /sjɔ/**：nationale 的 ti 念 /s/ 不念 /t/（-tion/-tio- 規則，同 attention）
 - 文化註記：7 月 14 日 = le 14 juillet，法國人多半直接說「le quatorze juillet」
 
-相關：[[phoneme-e-ouvert]]、[[phoneme-s]]、[[jours-et-temps]]
+相關：[[phoneme-e-ouvert]]、[[phoneme-s]]、[[mois-de-lannee]]

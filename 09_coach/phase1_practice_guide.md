@@ -1,6 +1,6 @@
 # Phase 1 練習指南 — 音素聽辨怎麼練、用什麼工具
 
-> 這是 Phase 1（征服所有法語音）的具體操作手冊。策略層見 [learning_strategy.md](learning_strategy.md)，本週範圍見 [dashboard.md](dashboard.md)。
+> 這是 Phase 1（征服所有法語音）的具體操作手冊。策略層見 [learning_strategy.md](strategy/learning_strategy.md)，本週範圍見 [dashboard.md](dashboard.md)。
 
 ## 每日 20 分鐘的固定流程
 
@@ -15,7 +15,7 @@
 2. **聽音寫 IPA**（放例字 → 寫出 /IPA/ → 對音素卡）
 3. **看 IPA 念出來**（看 /pɛ̃/ 念 pain → 錄音對 Forvo）
 
-後兩種對應 [learning_strategy](learning_strategy.md) 的量化標準（發音→IPA >90%、IPA 辨識 >95%），每次自測至少含 3 題 IPA 雙向題。
+後兩種對應 [learning_strategy](strategy/learning_strategy.md) 的量化標準（發音→IPA >90%、IPA 辨識 >95%），每次自測至少含 3 題 IPA 雙向題。
 
 過關的音組隔 2–3 天回測一次；一直分不出的音告訴 AI coach，記入 evidence log 追蹤。
 
@@ -146,12 +146,12 @@
 
 | 日期 | ① 聽辨（20 分） | ② 課後解碼（5 分，猜→對→念） | ③ 其他 |
 |---|---|---|---|
-| 週日 7/19 | 補 [i] vs [e]（evidence log 7/13 弱點）：500 ex p.45；順帶回測 [u]/[y] | [temps-et-jours.md](../08_ai/anki/decks/vocabulaire/temps-et-jours.md) 8 字（jour/semaine/mois/demain…）| — |
-| 週一 7/20 | 鼻母音三分 [ɛ̃]/[ɑ̃]/[ɔ̃]：500 ex p.77–94；搭配數字 0–20 聽辨 | [nombres.md](../08_ai/anki/decks/vocabulaire/nombres.md) 10 字 | — |
-| 週二 7/21 | 子音 [p]–[b]、[b]–[v]：500 ex p.102、p.108；例字 bébé/pépé、hibou/poule | [personnes.md](../08_ai/anki/decks/vocabulaire/personnes.md) 5 字 | cahier p.5 練習 1 |
-| 週三 7/22 | 子音 [s]–[z]、[ʃ]–[ʒ]：500 ex p.142、p.148；例字 poisson/poison、chat/ça、jupe/gîte | [animaux.md](../08_ai/anki/decks/vocabulaire/animaux.md) 7 字 | cahier p.5 練習 2 |
-| 週四 7/23 | 數字 17–31 聽寫自測；liaison 跟讀 un euro/deux euros/un abricot；c/g 拼字規則自測 | [objets.md](../08_ai/anki/decks/vocabulaire/objets.md) 9 字 | cahier p.5 練習 3 + p.6 練習 1 |
-| 週五 7/24 | 總自測：500 ex p.63 母音綜合 + p.94 鼻母音綜合 | [ecole-classe.md](../08_ai/anki/decks/vocabulaire/ecole-classe.md) 5 字 + [decks/phrases/](../08_ai/anki/decks/phrases/) 挑 5 句 | **Anki 卡庫全測一輪**（70 張，vocab+phrases）；見 [lesson-02 複習清單](../01_lessons/2026-07-18_lesson-02.md) |
+| 週日 7/19 | 補 [i] vs [e]（evidence log 7/13 弱點）：500 ex p.45；順帶回測 [u]/[y] | [decks/vocabulaire/](../08_ai/anki/decks/vocabulaire/) 時間類 8 字：[jour](../08_ai/anki/decks/vocabulaire/jour.md)/[semaine](../08_ai/anki/decks/vocabulaire/semaine.md)/[mois](../08_ai/anki/decks/vocabulaire/mois.md)/[demain](../08_ai/anki/decks/vocabulaire/demain.md) 等 | — |
+| 週一 7/20 | 鼻母音三分 [ɛ̃]/[ɑ̃]/[ɔ̃]：500 ex p.77–94；搭配數字 0–20 聽辨 | [nombres.md](../08_ai/anki/decks/vocabulaire/nombres.md) 10 字（整組維持不拆） | — |
+| 週二 7/21 | 子音 [p]–[b]、[b]–[v]：500 ex p.102、p.108；例字 bébé/pépé、hibou/poule | [decks/vocabulaire/](../08_ai/anki/decks/vocabulaire/) 人物類 5 字：[madame](../08_ai/anki/decks/vocabulaire/madame.md)/[monsieur](../08_ai/anki/decks/vocabulaire/monsieur.md)/[ami](../08_ai/anki/decks/vocabulaire/ami.md)/[famille](../08_ai/anki/decks/vocabulaire/famille.md)/[camarade-de-classe](../08_ai/anki/decks/vocabulaire/camarade-de-classe.md) | cahier p.5 練習 1 |
+| 週三 7/22 | 子音 [s]–[z]、[ʃ]–[ʒ]：500 ex p.142、p.148；例字 poisson/poison、chat/ça、jupe/gîte | [decks/vocabulaire/](../08_ai/anki/decks/vocabulaire/) 動物類 7 字：[chat](../08_ai/anki/decks/vocabulaire/chat.md)/[poisson](../08_ai/anki/decks/vocabulaire/poisson.md)/[poule](../08_ai/anki/decks/vocabulaire/poule.md) 等 | cahier p.5 練習 2 |
+| 週四 7/23 | 數字 17–31 聽寫自測；liaison 跟讀 un euro/deux euros/un abricot；c/g 拼字規則自測 | [decks/vocabulaire/](../08_ai/anki/decks/vocabulaire/) 物品類 9 字：[euro](../08_ai/anki/decks/vocabulaire/euro.md)/[bague](../08_ai/anki/decks/vocabulaire/bague.md)/[velo](../08_ai/anki/decks/vocabulaire/velo.md) 等 | cahier p.5 練習 3 + p.6 練習 1 |
+| 週五 7/24 | 總自測：500 ex p.63 母音綜合 + p.94 鼻母音綜合 | [decks/vocabulaire/](../08_ai/anki/decks/vocabulaire/) 課堂類 5 字：[ecole](../08_ai/anki/decks/vocabulaire/ecole.md)/[page](../08_ai/anki/decks/vocabulaire/page.md)/[attention](../08_ai/anki/decks/vocabulaire/attention.md) 等 + [decks/phrases/](../08_ai/anki/decks/phrases/) 挑 5 句 | **Anki 卡庫全測一輪**（vocab 39 檔+phrases 29 張）；見 [lesson-02 複習清單](../01_lessons/2026-07-18_lesson-02.md) |
 | 週六 7/25 | 上課 | — | 課堂驗證；交作業（p.5×3 + p.6×1）|
 
 自測（① 的第 ③ 小步）記得輪替聽音選字／聽音寫 IPA／看 IPA 念出來三種形式，見上方「每日 20 分鐘的固定流程」。

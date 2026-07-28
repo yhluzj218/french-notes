@@ -22,7 +22,7 @@ Anki Status: Pending
 
 ## 說明
 
-老師本週教母音，下週（2026-07-18）教子音。這張表同時涵蓋 [learning_strategy](../../09_coach/learning_strategy.md) 的第一層（聽辨）和第三層（拼字→IPA）的起點。
+老師本週教母音，下週（2026-07-18）教子音。這張表同時涵蓋 [learning_strategy](../../09_coach/strategy/learning_strategy.md) 的第一層（聽辨）和第三層（拼字→IPA）的起點。
 
 ## 課堂聽辨練習形式
 

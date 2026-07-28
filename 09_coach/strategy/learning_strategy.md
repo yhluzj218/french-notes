@@ -1,7 +1,7 @@
 # Learning Strategy — 發音優先路線
 
 > 這是整個學習系統的頂層策略。`start today` 出任務時必須對齊目前所在階段。
-> 長期目標見 [profile.md](profile.md)。
+> 長期目標見 [profile.md](../profile.md)。
 
 ## 核心理念
 
@@ -25,6 +25,7 @@
 - 每天 20 分鐘，重點是**精準**，不是量
 - 訓練到穩定後才進 Phase 2
 - 練到的發音規則收進 `10_knowledge_base/pronunciation/`（可重用規則層級）
+- 要複習發音（母音/鼻母音/子音）該看哪個檔案 → [pronunciation-review-map.md](pronunciation-review-map.md)；實際每週排程 → [phase1_practice_guide.md](../phase1_practice_guide.md)
 
 ### Phase 2 — 拼字→發音規則（約 2 個月）
 
@@ -65,7 +66,7 @@
 
 每週投入約 5–6 小時，**課程進度是主軸**，每日自習跟著老師教到的音素走：
 
-- 老師教過的音素 → 當週每日聽辨/minimal pairs 的練習範圍（例：Lesson 01 教了 11 個母音 → 本週練母音聽辨，見 [voyelles-francaises](../10_knowledge_base/pronunciation/voyelles-francaises.md)）
+- 老師教過的音素 → 當週每日聽辨/minimal pairs 的練習範圍（例：Lesson 01 教了 11 個母音 → 本週練母音聽辨，見 [voyelles-francaises](../../10_knowledge_base/pronunciation/voyelles-francaises.md)）
 - 老師還沒教的音素 → 不搶先自學，等課程教到再納入
 - `start today` 出任務時必須讀最近一筆 lesson 筆記，確認：當週音素範圍、作業 deadline、下週預習範圍
 - 課程作業（cahier）優先於自主練習任務
@@ -78,7 +79,7 @@
 - 課堂價值 = 輸出糾錯（開口、被糾音）+ 間隔複習（已學內容第二次見面）+ 每週進度地板
 - cahier 作業照做（會變快變簡單，屬於複習）
 - `start today` 出任務以自學進度為主，lesson 筆記只用來確認作業 deadline 和口說驗證重點
-- 自學材料：已購線上課程《從0開始學法文｜路易教你旅遊日常會話》第 2 章起（打招呼、自我介紹、數字、日常表達 → 對應 2026-10 milestone；第 3–4 章旅遊/聊天情境隨後）。Phase 1 期間只用其第 1 章音素影片（見 [phase1_practice_guide.md](phase1_practice_guide.md) 工具⑤）
+- 自學材料：已購線上課程《從0開始學法文｜路易教你旅遊日常會話》第 2 章起（打招呼、自我介紹、數字、日常表達 → 對應 2026-10 milestone；第 3–4 章旅遊/聊天情境隨後）。Phase 1 期間只用其第 1 章音素影片（見 [phase1_practice_guide.md](../phase1_practice_guide.md) 工具⑤）
 - 換檔期補充資源（來源：中文母語 C1 學習者的資源分享，2026-07 評估）：
   - 動詞變位每日小練習（la-conjugaison.fr、《Conjugaison progressive du français》débutant）→ 對應 2026-10「現在式核心動詞」milestone
   - 慢速法語 YouTube（Français avec Pierre、Easy French、innerFrench）→ 每天一支＋shadowing

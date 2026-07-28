@@ -62,8 +62,9 @@ Anki Exported At: YYYY-MM-DD
   YYYY-MM-DD_主題.md      ← 不分聽說讀寫資料夾，日期+主題單一存放；
                              等真的需要分技能追蹤再拆
 08_ai/anki/
-  decks/vocabulaire/      ← 現役單字卡：每個類別一個 md（時間、數字、人物、
-                             動物、物品、課堂…），一字一卡字典式格式
+  decks/vocabulaire/      ← 現役單字卡：一字一檔、按字母排序（2026-07-25 起不再
+                             分類別存放）；例外是 nombres-0-31、alphabet 這種本來
+                             就是整組表格的內容，維持一檔一組
   decks/phrases/          ← 現役句型卡：一句一個 md
   done/                   ← 使用者回報「已錄入 Anki」的卡移到這裡，依類別
                              合併保存（此資料夾內的移動不受「不移動來源檔案」
@@ -90,7 +91,7 @@ Anki Exported At: YYYY-MM-DD
 
 ## 學習策略：發音優先路線
 
-頂層策略定義在 `09_coach/learning_strategy.md`（三層能力、三階段順序、量化標準）。AI coach 必須依此對齊：
+頂層策略定義在 `09_coach/strategy/learning_strategy.md`（三層能力、三階段順序、量化標準）。AI coach 必須依此對齊：
 
 - `start today` 出的任務要對應 dashboard 的 **Current Phase**（Phase 1 期間以音素、minimal pairs、聽辨為主，不排大量單字任務）
 - 目標不是背單字量，而是「看到新單字能依 IPA + 拼字規則念對 90%」；單字收錄時 IPA 是必填重點

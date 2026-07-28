@@ -41,7 +41,14 @@ Anki Exported At: 2026-07-18
 | 19 | dix-neuf | [diz.nœf] |
 | 20 | vingt | [vɛ̃] |
 | 21 | vingt-et-un | [vɛ̃.te.œ̃] |
-| 22–29 | vingt-deux … vingt-neuf | [vɛ̃t] + 個位數 |
+| 22 | vingt-deux | [vɛ̃t.dø] |
+| 23 | vingt-trois | [vɛ̃t.tʁwa] |
+| 24 | vingt-quatre | [vɛ̃t.katʁ] |
+| 25 | vingt-cinq | [vɛ̃t.sɛ̃k] |
+| 26 | vingt-six | [vɛ̃t.sis] |
+| 27 | vingt-sept | [vɛ̃t.sɛt] |
+| 28 | vingt-huit | [vɛ̃t.ɥit] |
+| 29 | vingt-neuf | [vɛ̃t.nœf] |
 | 30 | trente | [tʁɑ̃t] |
 | 31 | trente-et-un | [tʁɑ̃.te.œ̃] |
 

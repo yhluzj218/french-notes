@@ -11,7 +11,7 @@
 - 考 TEF/TCF，目標 NCLC 7（原定 2027 年中；2026-07 依投入時數修正為 **2027 年底**，見 learning_strategy 的 Milestones）
 - 短期：2026-12 ~ 2027-01 考 A1
 - 未來規劃：移民加拿大
-- 學習路線：發音優先（IPA →拼字規則→大量單字），見 [learning_strategy.md](learning_strategy.md)
+- 學習路線：發音優先（IPA →拼字規則→大量單字），見 [learning_strategy.md](strategy/learning_strategy.md)
 - 過去經驗：IELTS 備考、習慣建立知識庫與自動化流程，適合可量化的訓練系統
 
 ## 投入時數規劃
