@@ -17,4 +17,6 @@ Anki Exported At: 2026-07-25
 - ⚠️ 完全不規則，六個人稱長得都不像同一個動詞（跟 parler 那種規則動詞的「同音現象」相反）——只能死記
 - 固定用法：**avoir + 名詞**表達中文會用「是」的狀態，例如 avoir faim（餓）、avoir soif（渴）、avoir [數字] ans（幾歲），這點常讓中文母語者誤用 être（見 tu-vs-vous 之外，之後年齡誤用可另立 error_db）
 
-相關：[[parler]]、[[phoneme-e-ouvert]]、[[phoneme-ch]]、[[liaison]]
+- ⚠️ **ils‿ont /il.zɔ̃/（有）常跟 ils sont /il sɔ̃/（是）搞混**——聽到 /z/ 是 avoir、聽到 /s/ 是 être，完整對照表放在 [[etre]]（Lesson 04，2026-08-01 標記）
+
+相關：[[parler]]、[[etre]]、[[phoneme-e-ouvert]]、[[phoneme-ch]]、[[phoneme-z]]、[[liaison]]、[[dire-nationalite-age]]

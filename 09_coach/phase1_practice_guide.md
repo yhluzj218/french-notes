@@ -77,7 +77,7 @@
 ### ⑥ 之後才用，現在不用
 - TV5MONDE（分級聽力）：等 A1 程度再開始
 - Podcast Français Facile（結構化免費課程，含發音練習）：Phase 2 起可用
-- Busuu（綜合會話 App，10–15 分鐘小單元）：Phase 1 不用（主體是單字＋情境會話，與發音優先衝突）。換檔期若想加碎片時間管道再評估，先跟路易課程比較避免重複；注意來源推薦（Zoe）含業配成分
+- Busuu（綜合會話 App，10–15 分鐘小單元）：不算 Phase 1 每日 20 分鐘聽辨流程的工具（主體是單字＋情境會話，與發音優先衝突）。目前作為 A1 固定複習章節的補充教材使用（偷跑/碎片時間，與多鄰果、Assimil 同角色），見 [strategy/a1-review-curriculum.md](strategy/a1-review-curriculum.md)；注意來源推薦（Zoe）含業配成分
 - Anki：等 Phase 2 累積拼字規則後批次匯出；**不用**現成的「5000 高頻字」牌組——與「自己收錄＋IPA 預測驗證」路線衝突
 
 ## 《500 exercices de phonétique》讀序規劃（2026-07-16 排定）

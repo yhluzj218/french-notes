@@ -5,7 +5,7 @@ Meaning: 上課時老師和學生的常用互動語
 Register: neutre
 Usage Context: 課堂上提問、請老師重複
 Example: "Tu peux répéter ? — Oui, encore une fois."
-Source: Lesson 01（2026-07-11）；Lesson 02（2026-07-18）補 Écoutez / Complétez / Associez
+Source: Lesson 01（2026-07-11）；Lesson 02（2026-07-18）補 Écoutez / Complétez / Associez；Lesson 03（2026-07-25）補課本 p.16「Dans la classe」正式版
 Learning Status: Learning
 Anki Status: Exported
 Anki Exported At: 2026-07-19
@@ -28,3 +28,8 @@ Anki Exported At: 2026-07-19
 - *Ça veut dire quoi ? / C'est quoi ?* — 這是什麼意思？
 - *Je ne sais pas.* — 我不知道
 - *Tu peux répéter ?* — 你可以再說一次嗎？
+- *Comment ça s'écrit ?* — 這個怎麼拼？（Lesson 03，課本 p.16）
+- *Vous pouvez répéter, s'il vous plaît ?* — 您可以再說一次嗎？（Tu peux répéter ? 的正式/vous 版本，Lesson 03）
+- *Excusez-moi, je suis en retard.* — 不好意思，我遲到了（Lesson 03）
+- *Je ne comprends pas.* — 我不懂（跟「Je ne sais pas 我不知道」意思不同，別搞混，Lesson 03）
+- *Comment on dit ... en français ?* — ...的法語怎麼說？（Lesson 03）
