@@ -7,7 +7,7 @@ Examples:
   - "Tu es hollandaise, Alice ? — Non, je suis allemande."
   - "Vous avez quel âge ? — J'ai 30 ans."
 Common Mistakes: 年齡句型用 avoir 不用 être（中文母語者常見誤用，中文「我是 30 歲」直覺會想用 être，見 [[avoir]]）；反問要用重讀形 Et toi ? / Et vous ?，不能說 ❌ Et tu ?（見 [[pronoms-toniques]]）
-Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話
+Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話；Lesson 06（2026-08-15）補完整自我介紹串接（含興趣）與第三人稱敘述版
 Learning Status: New
 Anki Status: Pending
 ---
@@ -79,4 +79,22 @@ Anki Status: Pending
 
 52 / 44 / 23 / 28 — 前兩個屬 [[nombres-32-69]]，後兩個屬 [[nombres-0-31]]；注意 **28 = vingt-huit**，vingt 的 t 在這裡要發音。
 
-相關：[[etre]]、[[avoir]]、[[tu-vs-vous]]、[[adjectifs-de-nationalite]]、[[se-presenter]]、[[nombres-32-69]]、[[nombres-0-31]]、[[presenter-quelquun]]、[[pronoms-toniques]]、[[questions-intonation]]、[[salutations]]
+## 完整自我介紹串接（Lesson 06 補，加上興趣）
+
+把打招呼、名字、國籍、年齡、興趣串成一段完整自我介紹，是把 [[se-presenter]]、本篇（國籍/年齡）跟 [[parler-de-ses-loisirs]]（興趣）三個句型接在一起：
+
+> « Salut, je m'appelle Connie Lu. Je suis taïwanaise. J'ai 40 ans. J'aime la plongée et les langues. »
+
+## 第三人稱敘述版（Lesson 06 補）
+
+同一套骨架把主詞從「我」換成「他/她」，動詞跟著換人稱，句型結構完全不變：
+
+| 人稱 | 名字 | 國籍 | 年齡 | 興趣 |
+|---|---|---|---|---|
+| je | Je m'appelle... | Je suis... | J'ai... ans | J'aime... |
+| il/elle | Il/Elle s'appelle... | Il/Elle est...（例：Vincent est suisse.） | Il/Elle a... ans | Il/Elle aime... |
+
+- 換人稱之後，問句也要跟著換：Tu aimes quoi ? → **Il/Elle aime quoi ?**（見 [[parler-de-ses-loisirs]]）
+- 例句：« Vincent est suisse. »、« Elle a [年齡] ans. »、« Elle aime [興趣]. »
+
+相關：[[etre]]、[[avoir]]、[[tu-vs-vous]]、[[adjectifs-de-nationalite]]、[[se-presenter]]、[[nombres-32-69]]、[[nombres-0-31]]、[[presenter-quelquun]]、[[pronoms-toniques]]、[[questions-intonation]]、[[salutations]]、[[parler-de-ses-loisirs]]

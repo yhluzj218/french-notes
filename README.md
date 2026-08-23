@@ -17,7 +17,7 @@
 |---|---|
 | `start today` | 讀 dashboard + profile，輸出今日任務 |
 | `finish today` | 依回報更新受影響的 DB |
-| `更新筆記` | 貼逐字稿，分流到 lessons / knowledge base / errors |
+| `更新筆記`（同義：`記錄課程`、`上課筆記`） | 貼逐字稿，分流到 lessons / knowledge base / errors，並同步更新 a1-review-curriculum |
 | `萃取知識` | 貼句子/規則，搜尋後更新或新建條目 |
 | `收錄單字 [word]` | 收錄單字（先搜尋避免重複） |
 | `記錄這個錯誤` | 依三階段 confidence policy 記錄 |

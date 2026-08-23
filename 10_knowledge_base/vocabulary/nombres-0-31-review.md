@@ -1,6 +1,6 @@
 # 數字 0–31 複習
 
-> 對應 Lesson 02（2026-07-18）交的作業（cahier p.5 練習 1–3 + p.6 練習 1）。單字本體（IPA、完整表格）唯一來源見 [nombres-0-31.md](../../10_knowledge_base/vocabulary/nombres-0-31.md)，這裡只管「怎麼練」。
+> 對應 Lesson 02（2026-07-18）交的作業（cahier p.5 練習 1–3 + p.6 練習 1）。單字本體（IPA、完整表格）唯一來源見 [nombres-0-31.md](nombres-0-31.md)，這裡只管「怎麼練」。
 
 ## 完整性檢查（2026-07-25）
 
@@ -18,9 +18,9 @@ Anki 卡（[decks/vocabulaire/nombres.md](../../08_ai/anki/decks/vocabulaire/nom
 2. **17–19（dix + 個位數）**：dix-sept、dix-huit、dix-neuf——留意 dix 在這裡的連音／消音變化（見下方陷阱）
 3. **20–29（vingt + 個位數）**：先練 vingt 單獨念 [vɛ̃]，再練 vingt-deux…vingt-neuf 的 t 復活現象
 4. **30–31（trente + et-un）**：trente 單獨、trente-et-un 的 et 插入
-5. **liaison 收尾**：0–31 隨機抽數字 + euros 連音（un euro、deux euros…），見 [nombres-0-31.md](../../10_knowledge_base/vocabulary/nombres-0-31.md) 的發音陷阱段落與 [liaison.md](../../10_knowledge_base/pronunciation/liaison.md)
+5. **liaison 收尾**：0–31 隨機抽數字 + euros 連音（un euro、deux euros…），見 [nombres-0-31.md](nombres-0-31.md) 的發音陷阱段落與 [liaison.md](../pronunciation/liaison.md)
 
-## 自測三形式（輪替，見 [phase1_practice_guide.md](../phase1_practice_guide.md) 的每日流程）
+## 自測三形式（輪替，見 [phase1_practice_guide.md](../../09_coach/phase1_practice_guide.md) 的每日流程）
 
 1. 看數字（阿拉伯數字）念出法語
 2. 聽法語寫出阿拉伯數字
@@ -32,4 +32,4 @@ Anki 卡（[decks/vocabulaire/nombres.md](../../08_ai/anki/decks/vocabulaire/nom
 - **vingt**：單獨 [vɛ̃]（gt 不發音），組合中 t 復活 [vɛ̃t]
 - **21、31 才有 et**：vingt-et-un、trente-et-un；22 之後沒有 et（vingt-deux 不是 vingt-et-deux）
 
-相關：[nombres-0-31.md](../../10_knowledge_base/vocabulary/nombres-0-31.md)、[liaison.md](../../10_knowledge_base/pronunciation/liaison.md)、[lettres-finales-muettes.md](../../10_knowledge_base/pronunciation/lettres-finales-muettes.md)
+相關：[nombres-0-31.md](nombres-0-31.md)、[liaison.md](../pronunciation/liaison.md)、[lettres-finales-muettes.md](../pronunciation/lettres-finales-muettes.md)

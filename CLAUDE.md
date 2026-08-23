@@ -107,10 +107,15 @@ Anki Exported At: YYYY-MM-DD
 讀使用者回報，判斷影響哪些 DB，**只更新受影響部分**（遵守原則 2、3）。
 
 ### `更新筆記`
-使用者貼上課逐字稿 → 分流到三處：
+同義觸發詞：`記錄課程`、`上課筆記`、貼上課逐字稿/照片。
+
+使用者貼上課逐字稿 → 分流到四處：
 1. `01_lessons/`：原始記錄（每堂課一個檔案）
 2. `10_knowledge_base/`：可重用知識（**先搜尋避免重複**，原則 1）
 3. errors：依三階段 confidence policy（原則 2）
+4. `09_coach/strategy/a1-review-curriculum.md`：**每次都要檢查**這堂課有沒有新章節——有新章節就依該檔「更新方式」加一行在表格最後；如果這堂課只是替既有章節補新例字/新單字（沒有開新章節），改成在表格下方加一段跟既有 Lesson 05 footnote 同格式的補充說明，**不要漏掉這一步**
+
+完成以上四項後，照原則 3 只更新 `09_coach/dashboard.md` 受影響的區塊（通常是 Recent Lessons、Anki Queue、「上課前要複習什麼」連結、Last Updated）。
 
 ### `萃取知識`
 使用者貼句子/表達/文法規則 → 判斷類型（vocabulary / expressions / sentence_patterns / grammar_notes / pronunciation）→ **搜尋現有條目** → 更新或新建。

@@ -21,16 +21,26 @@
 | 7 | 自我介紹 Se présenter | Lesson 01（Lesson 02 補充 Tu t'appelles comment ?） | [se-presenter](../../10_knowledge_base/sentence_patterns/se-presenter.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 8 | 課堂用語 Expressions de classe | Lesson 01 | [expressions-de-classe](../../10_knowledge_base/expressions/expressions-de-classe.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 9 | 子音發音規則 Consonnes | Lesson 02 | [consonnes-francaises](../../10_knowledge_base/pronunciation/consonnes-francaises.md) | [phase1_practice_guide.md](../phase1_practice_guide.md) 課後解碼流程 | 已上課／已收錄 |
-| 10 | 數字 0–31 Nombres | Lesson 02 | [nombres-0-31](../../10_knowledge_base/vocabulary/nombres-0-31.md) | [nombres-0-31-review.md](nombres-0-31-review.md) | 已上課／已收錄 |
-| 11 | Liaison 聯誦 | Lesson 02 | [liaison](../../10_knowledge_base/pronunciation/liaison.md) | [liaison-review.md](liaison-review.md) | 已上課／已收錄 |
+| 10 | 數字 0–31 Nombres | Lesson 02 | [nombres-0-31](../../10_knowledge_base/vocabulary/nombres-0-31.md) | [nombres-0-31-review.md](../../10_knowledge_base/vocabulary/nombres-0-31-review.md) | 已上課／已收錄 |
+| 11 | Liaison 聯誦 | Lesson 02 | [liaison](../../10_knowledge_base/pronunciation/liaison.md) | [liaison-review.md](../../10_knowledge_base/pronunciation/liaison-review.md) | 已上課／已收錄 |
 | 12 | 字尾字母不發音 | Lesson 02 | [lettres-finales-muettes](../../10_knowledge_base/pronunciation/lettres-finales-muettes.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 13 | 星期／月份／日期 | Lesson 02 | [dire-la-date](../../10_knowledge_base/sentence_patterns/dire-la-date.md)、[jour](../../10_knowledge_base/vocabulary/jour.md)、[mois-de-lannee](../../10_knowledge_base/vocabulary/mois-de-lannee.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 14 | 動詞變化 Conjugaison（être／avoir／s'appeler 現在式） | Lesson 03（être 正式教；avoir、s'appeler 補完整變位） | [etre](../../10_knowledge_base/vocabulary/etre.md)、[avoir](../../10_knowledge_base/vocabulary/avoir.md)、[sappeler](../../10_knowledge_base/vocabulary/sappeler.md) | 直接用 KB 來源練六人稱變位 | 已上課／已收錄 |
 | 15 | 國籍形容詞（陰陽性） | Lesson 03 | [adjectifs-de-nationalite](../../10_knowledge_base/grammar_notes/adjectifs-de-nationalite.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 16 | 定冠詞 le/la/l'/les | Lesson 03 | [articles-definis](../../10_knowledge_base/grammar_notes/articles-definis.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 17 | 興趣 Loisirs（art／cinéma／sport／langues／musique） | Lesson 03（musique 已於 Lesson 02） | [art](../../10_knowledge_base/vocabulary/art.md)、[cinema](../../10_knowledge_base/vocabulary/cinema.md)、[sport](../../10_knowledge_base/vocabulary/sport.md)、[langue](../../10_knowledge_base/vocabulary/langue.md)、[musique](../../10_knowledge_base/vocabulary/musique.md) | 直接用 KB 來源練 | 已上課／已收錄 |
-| 18 | 數字 32–69 | Lesson 03 | [nombres-32-69](../../10_knowledge_base/vocabulary/nombres-32-69.md) | 直接用 KB 來源練，比照 [nombres-0-31-review.md](nombres-0-31-review.md) 模式 | 已上課／已收錄 |
+| 18 | 數字 32–69 | Lesson 03 | [nombres-32-69](../../10_knowledge_base/vocabulary/nombres-32-69.md) | 直接用 KB 來源練，比照 [nombres-0-31-review.md](../../10_knowledge_base/vocabulary/nombres-0-31-review.md) 模式 | 已上課／已收錄 |
 | 19 | 問國籍與年齡句型 | Lesson 03 | [dire-nationalite-age](../../10_knowledge_base/sentence_patterns/dire-nationalite-age.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 20 | 不定冠詞 un/une vs 定冠詞 le/la/les 對比 | Lesson 04 | [articles-indefinis](../../10_knowledge_base/grammar_notes/articles-indefinis.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 21 | 否定句 ne...pas（含口語省略 ne） | Lesson 04 | [negation-ne-pas](../../10_knowledge_base/grammar_notes/negation-ne-pas.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 22 | 職業名詞陰陽性（chanteur／acteur／sportif） | Lesson 04 | [chanteur](../../10_knowledge_base/vocabulary/chanteur.md)、[acteur](../../10_knowledge_base/vocabulary/acteur.md)、[sportif](../../10_knowledge_base/vocabulary/sportif.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 23 | 介紹別人句型 C'est un + [職業] + [國籍] | Lesson 04 | [presenter-quelquun](../../10_knowledge_base/sentence_patterns/presenter-quelquun.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 24 | 重讀代名詞 Moi／Toi（Pronoms toniques） | Lesson 04（p.18 document A 聽力對話補） | [pronoms-toniques](../../10_knowledge_base/grammar_notes/pronoms-toniques.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 25 | 談論興趣句型 Tu aimes quoi ? / Quels sont tes loisirs ? | Lesson 06 | [parler-de-ses-loisirs](../../10_knowledge_base/sentence_patterns/parler-de-ses-loisirs.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+
+> Lesson 05（2026-08-08）沒有新章節：內容是訂正作業＋既有章節 14–15（動詞變化、國籍形容詞）的大量重複操練，只在章節 15 的例字表補了 argentin/argentine、vietnamien(ne)、suédois(e) 三個字＋課本 p.22 陰陽性發音辨識練習，詳見 [adjectifs-de-nationalite](../../10_knowledge_base/grammar_notes/adjectifs-de-nationalite.md) 與 [Lesson 05 筆記](../../01_lessons/2026-08-08_lesson-05.md)。
+
+> Lesson 06（2026-08-15）新增第 25 章節（談論興趣句型），另外在既有章節補充例字，沒有另開新行：章節 13（星期／月份／日期）補疑問句「C'est quoi la date d'aujourd'hui ?」；章節 16（定冠詞）補課本 p.14 國家冠詞練習與新國家例字（le Japon、la Chine、l'Argentine、l'Algérie、l'Espagne）；章節 17（興趣 Loisirs）大量擴充新字（plonger/la plongée、conduire、la voiture、la randonnée、le dessin、les puzzles、les vinyles、l'histoire、le café、le chocolat），詳見 [Lesson 06 筆記](../../01_lessons/2026-08-15_lesson-06.md)。
 
 ## 更新方式
 

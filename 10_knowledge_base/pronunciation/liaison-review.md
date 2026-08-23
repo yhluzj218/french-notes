@@ -1,6 +1,6 @@
 # Liaison（連音）複習
 
-> 規則本體唯一來源見 [liaison.md](../../10_knowledge_base/pronunciation/liaison.md)，這裡只管怎麼練。
+> 規則本體唯一來源見 [liaison.md](liaison.md)，這裡只管怎麼練。
 
 ## 規則回顧（濃縮版）
 
@@ -11,8 +11,8 @@
 
 ## 練習素材（哪裡找例字）
 
-- 數字 + 名詞是連音出現頻率最高的場景：un euro、deux euros、trois euros、un abricot——完整表格見 [nombres-0-31.md](../../10_knowledge_base/vocabulary/nombres-0-31.md)
-- 「幾乎永遠連音」的字：un‿ami、les‿amis（見 [ami.md](../../10_knowledge_base/vocabulary/ami.md)）
+- 數字 + 名詞是連音出現頻率最高的場景：un euro、deux euros、trois euros、un abricot——完整表格見 [nombres-0-31.md](../vocabulary/nombres-0-31.md)
+- 「幾乎永遠連音」的字：un‿ami、les‿amis（見 [ami.md](../vocabulary/ami.md)）
 - 對比組：un euro（連）vs un dollar（不連）——同一個 un，後面字首決定連不連
 
 ## 練習順序
@@ -32,4 +32,4 @@
 - **忘記連**：中文母語者最常見的偏誤，因為中文字與字之間不會因前後音素互相影響
 - **過度連音（liaison fautive）**：不是所有字尾子音都連，先確認這個字尾子音「平常是不發音的」才會連（例如 s、x、n 這幾種），不要看到母音開頭就亂連
 
-相關：[liaison.md](../../10_knowledge_base/pronunciation/liaison.md)、[nombres-0-31.md](../../10_knowledge_base/vocabulary/nombres-0-31.md)、[lettres-finales-muettes.md](../../10_knowledge_base/pronunciation/lettres-finales-muettes.md)
+相關：[liaison.md](liaison.md)、[nombres-0-31.md](../vocabulary/nombres-0-31.md)、[lettres-finales-muettes.md](lettres-finales-muettes.md)
