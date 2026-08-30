@@ -37,10 +37,18 @@
 | 23 | 介紹別人句型 C'est un + [職業] + [國籍] | Lesson 04 | [presenter-quelquun](../../10_knowledge_base/sentence_patterns/presenter-quelquun.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 24 | 重讀代名詞 Moi／Toi（Pronoms toniques） | Lesson 04（p.18 document A 聽力對話補） | [pronoms-toniques](../../10_knowledge_base/grammar_notes/pronoms-toniques.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 25 | 談論興趣句型 Tu aimes quoi ? / Quels sont tes loisirs ? | Lesson 06 | [parler-de-ses-loisirs](../../10_knowledge_base/sentence_patterns/parler-de-ses-loisirs.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 26 | 疑問詞總複習 Quand／Quoi／Pourquoi／Comment／Qui／Où／Combien | Lesson 07 | [mots-interrogatifs](../../10_knowledge_base/grammar_notes/mots-interrogatifs.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 27 | 疑問形容詞 Quel／Quelle／Quels／Quelles | Lesson 07 | [quel-adjectif-interrogatif](../../10_knowledge_base/grammar_notes/quel-adjectif-interrogatif.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 28 | 動詞 habiter + 介系詞 à／en／au／aux | Lesson 07 | [habiter](../../10_knowledge_base/vocabulary/habiter.md)、[habiter-preposition-lieu](../../10_knowledge_base/grammar_notes/habiter-preposition-lieu.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 29 | 問職業句型 + 職業單字 | Lesson 07 | [demander-son-metier](../../10_knowledge_base/sentence_patterns/demander-son-metier.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 30 | 電話號碼／聯絡資訊 | Lesson 07 | [donner-son-numero](../../10_knowledge_base/sentence_patterns/donner-son-numero.md)、[numero-de-telephone](../../10_knowledge_base/vocabulary/numero-de-telephone.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 31 | 節奏群組與重音位置 Groupes rythmiques / accent tonique | Lesson 07 | [groupes-rythmiques-accent-tonique](../../10_knowledge_base/pronunciation/groupes-rythmiques-accent-tonique.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 
 > Lesson 05（2026-08-08）沒有新章節：內容是訂正作業＋既有章節 14–15（動詞變化、國籍形容詞）的大量重複操練，只在章節 15 的例字表補了 argentin/argentine、vietnamien(ne)、suédois(e) 三個字＋課本 p.22 陰陽性發音辨識練習，詳見 [adjectifs-de-nationalite](../../10_knowledge_base/grammar_notes/adjectifs-de-nationalite.md) 與 [Lesson 05 筆記](../../01_lessons/2026-08-08_lesson-05.md)。
 
 > Lesson 06（2026-08-15）新增第 25 章節（談論興趣句型），另外在既有章節補充例字，沒有另開新行：章節 13（星期／月份／日期）補疑問句「C'est quoi la date d'aujourd'hui ?」；章節 16（定冠詞）補課本 p.14 國家冠詞練習與新國家例字（le Japon、la Chine、l'Argentine、l'Algérie、l'Espagne）；章節 17（興趣 Loisirs）大量擴充新字（plonger/la plongée、conduire、la voiture、la randonnée、le dessin、les puzzles、les vinyles、l'histoire、le café、le chocolat），詳見 [Lesson 06 筆記](../../01_lessons/2026-08-15_lesson-06.md)。
+
+> Lesson 07（2026-08-22）新增第 26–31 章節（疑問詞總複習、疑問形容詞 quel、habiter + 介系詞、問職業句型、電話號碼、節奏群組與重音），另外在章節 16（定冠詞）補國家例字（le Portugal、le Canada、l'Inde），並在章節 7/19（自我介紹、國籍年齡句型）延伸出「居住地＋職業」兩個新環節，詳見 [Lesson 07 筆記](../../01_lessons/2026-08-22_lesson-07.md)。
 
 ## 更新方式
 

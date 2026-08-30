@@ -7,7 +7,7 @@ Examples:
   - "Tu es hollandaise, Alice ? — Non, je suis allemande."
   - "Vous avez quel âge ? — J'ai 30 ans."
 Common Mistakes: 年齡句型用 avoir 不用 être（中文母語者常見誤用，中文「我是 30 歲」直覺會想用 être，見 [[avoir]]）；反問要用重讀形 Et toi ? / Et vous ?，不能說 ❌ Et tu ?（見 [[pronoms-toniques]]）
-Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話；Lesson 06（2026-08-15）補完整自我介紹串接（含興趣）與第三人稱敘述版
+Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話；Lesson 06（2026-08-15）補完整自我介紹串接（含興趣）與第三人稱敘述版；Lesson 07（2026-08-22）補居住地、職業兩個新環節
 Learning Status: New
 Anki Status: Pending
 ---
@@ -85,6 +85,15 @@ Anki Status: Pending
 
 > « Salut, je m'appelle Connie Lu. Je suis taïwanaise. J'ai 40 ans. J'aime la plongée et les langues. »
 
+## 自我介紹再擴充：居住地＋職業（Lesson 07 補）
+
+完整串接可以再加兩個環節，變成：打招呼→名字→國籍→**居住地**→年齡→**職業**→興趣：
+
+> « Salut, je m'appelle Connie Lu. Je suis taïwanaise. J'habite à Taipei. J'ai 40 ans. Je suis ingénieure. J'aime la plongée et les langues. »
+
+- 居住地：**Tu habites où ?** — J'habite à + [城市]／en/au/aux + [國家]，見 [[habiter]]、[[habiter-preposition-lieu]]
+- 職業：**Quel est ton métier ?** — Je suis + [職業]，見 [[demander-son-metier]]
+
 ## 第三人稱敘述版（Lesson 06 補）
 
 同一套骨架把主詞從「我」換成「他/她」，動詞跟著換人稱，句型結構完全不變：
@@ -97,4 +106,4 @@ Anki Status: Pending
 - 換人稱之後，問句也要跟著換：Tu aimes quoi ? → **Il/Elle aime quoi ?**（見 [[parler-de-ses-loisirs]]）
 - 例句：« Vincent est suisse. »、« Elle a [年齡] ans. »、« Elle aime [興趣]. »
 
-相關：[[etre]]、[[avoir]]、[[tu-vs-vous]]、[[adjectifs-de-nationalite]]、[[se-presenter]]、[[nombres-32-69]]、[[nombres-0-31]]、[[presenter-quelquun]]、[[pronoms-toniques]]、[[questions-intonation]]、[[salutations]]、[[parler-de-ses-loisirs]]
+相關：[[etre]]、[[avoir]]、[[tu-vs-vous]]、[[adjectifs-de-nationalite]]、[[se-presenter]]、[[nombres-32-69]]、[[nombres-0-31]]、[[presenter-quelquun]]、[[pronoms-toniques]]、[[questions-intonation]]、[[salutations]]、[[parler-de-ses-loisirs]]、[[habiter]]、[[habiter-preposition-lieu]]、[[demander-son-metier]]

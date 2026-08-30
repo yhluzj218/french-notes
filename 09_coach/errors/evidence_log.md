@@ -13,3 +13,4 @@
 | 2026-08-01 | ils sont（être）vs ils ont（avoir）混淆（第一次觀察）| Lesson 04 筆記 p.12 寫成「il sont」並在旁邊自己標了 /s/ /z/ 與「好像」表示不確定；主詞 ils 的 s 也漏掉 | Conjugation/Listening：être 與 avoir 的第三人稱複數靠 /s/ vs /z/ 分辨，見 [[etre]] |
 | 2026-08-01 | 啞音 h 與字尾 -ais 發音不確定（第一次觀察）| Lesson 04 筆記 p.7 把 hollandais 標成 /holãda/ 並打問號；實際是 /ɔ.lɑ̃.dɛ/（h 不發音、-ais = /ɛ/ 不是 /a/）| Pronunciation：法語 h 一律不發音 + 字尾 -ais/-ait 讀 /ɛ/，見 [[lettres-finales-muettes]] |
 | 2026-08-08 | 國籍形容詞陰性形式拼字漏字母（第三次觀察，**G001 升級為 High confidence**）| Lesson 05 筆記把 colombien/colombienne 寫成「colobien/colobienne」，漏了 m | Gender/Spelling：國籍形容詞陰性形式不穩，見 [[adjectifs-de-nationalite]]，同 G001（fanancais → americane/congolase → colobienne）|
+| 2026-08-22 | 學科名詞跟國籍形容詞搞混（第一次觀察） | Lesson 07 筆記寫「professeur de française」，正確應該是「professeur de français」——這裡的 français 是學科/語言本身的名詞（永遠陽性，不隨老師性別變），跟講人的國籍時用陰性 française 是兩件不同的事 | Gender：學科名詞（le français）跟國籍形容詞（française）功能不同卻拼字相同，容易套用錯規則，見 [[professeur]]、[[adjectifs-de-nationalite]] |

@@ -9,16 +9,16 @@ Examples:
   - "les langues（複數）"
 Exceptions: 國家名有特殊規則——見下方「國家名的冠詞」
 Related: "[[liaison]]、[[articles-indefinis]]"
-Source: 課本 p.20 Grammaire「Les articles définis」，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補與不定冠詞的對比；Lesson 06（2026-08-15）補課本 p.14「Écrivez les articles devant les noms de pays」練習與新國家例字
+Source: 課本 p.20 Grammaire「Les articles définis」，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補與不定冠詞的對比；Lesson 06（2026-08-15）補課本 p.14「Écrivez les articles devant les noms de pays」練習與新國家例字；Lesson 07（2026-08-22）補 Portugal/Canada/Inde 例字，並延伸出 habiter 用的介系詞規則，見 [[habiter-preposition-lieu]]
 Learning Status: New
 Anki Status: Pending
 ---
 
 - 用法核心：定冠詞表達「泛指、一般概念」（on utilise les articles définis pour parler de quelque chose de général），例如 J'aime **le** cinéma = 我喜歡電影（這件事本身），不是特定一部電影
 - 國家名的冠詞（跟一般名詞規則疊加一層）：
-  - 大多數以 -e 結尾的國家是陰性：**la** France、**la** Chine、**l'**Italie、**l'**Argentine、**l'**Algérie、**l'**Espagne（Chine/Argentine/Algérie/Espagne 是 Lesson 06 新例字；Argentine/Algérie/Espagne 開頭是母音，直接用 l'，跟一般母音開頭字同一套規則）
+  - 大多數以 -e 結尾的國家是陰性：**la** France、**la** Chine、**l'**Italie、**l'**Argentine、**l'**Algérie、**l'**Espagne、**l'**Inde（Chine/Argentine/Algérie/Espagne 是 Lesson 06 新例字，Inde 是 Lesson 07 新例字；Argentine/Algérie/Espagne/Inde 開頭是母音，直接用 l'，跟一般母音開頭字同一套規則）
   - 特例陽性（雖然結尾是 e）：**le** Mexique、**le** Mozambique、**le** Cambodge、**le** Zimbabwe
-  - 不以 -e 結尾、非上述特例的國家名一般是陽性：**le** Japon
+  - 不以 -e 結尾、非上述特例的國家名一般是陽性：**le** Japon、**le** Portugal、**le** Canada（Portugal/Canada 是 Lesson 07 新例字）
   - 以 -s 結尾的國家用複數冠詞：**les** États-Unis、**les** Pays-Bas
   - **國家名前一定要加冠詞**（不像某些語言可以直接用專有名詞不加冠詞）：Ce sont des pays.（課本 p.14，強調這點）；泛稱名詞「國家」本身見 [[pays]]
   - 母音開頭的國家（如 Argentine、Algérie、Espagne、Italie）**一律用 l'，不分陰陽性**——這點跟一般名詞的 l' 規則完全一致，只是很容易誤以為國家有特殊規則
