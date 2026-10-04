@@ -1,7 +1,7 @@
 .DS_Store
 
-# 《500 exercices de phonétique》CD 音檔（約 580MB，不進版控）
-00_resources/500-exercices-phonetique-cd/
-
-# ASSIMIL French 課程音檔（約 517MB，商業教材，不進版控）
-00_resources/ASSIMIL French/
+# 00_resources/ 整個資料夾不進版控（都是大型或商業教材音檔）：
+# - 《500 exercices de phonétique》CD 音檔（約 580MB）
+# - ASSIMIL French 課程音檔（約 517MB）
+# - Nouveau Taxi 1/2 音檔（約 128MB，2026-10-04 加入）
+00_resources/
