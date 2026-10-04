@@ -9,7 +9,7 @@ Examples:
   - "Il est français. → Il n'est pas français.（母音開頭 → n'）"
 Exceptions: 口語省略的是 **ne**，不是 pas；pas 絕對不能省
 Related: "[[expressions-de-classe]]"
-Source: 課本 Unité 1；Lesson 04（2026-08-01）筆記 p.10「il change / il (ne) change pas」
+Source: 課本 Unité 1；Lesson 04（2026-08-01）筆記 p.10「il change / il (ne) change pas」；Lesson 08（2026-10-04）翻譯練習 je n'aime pas / j'aime pas
 Learning Status: New
 Anki Status: Pending
 ---
@@ -21,4 +21,16 @@ Anki Status: Pending
   - Je **ne** sais **pas**.
 - 常見錯誤：只加 pas 卻把它放錯位置（❌ Il change ne pas）——pas 一定緊跟在動詞**後面**
 
-相關：[[expressions-de-classe]]、[[changer]]、[[pronoms-personnels-sujets]]
+## 跟 aimer / parler 搭配（Lesson 08 翻譯練習）
+
+| 正式（寫作、要文法正確）| 口語（說話時完全 OK）|
+|---|---|
+| Je **n'**aime **pas** le tennis. | J'aime **pas** le tennis. |
+| Tu **n'**aimes **pas** le café. | T'aimes pas le café. |
+| Vous **ne** parlez **pas** hollandais. | Vous parlez pas hollandais. |
+
+- aimer 是母音開頭 → ne 縮寫成 **n'**（je n'aime，不是 ❌ je ne aime）
+- 老師原話：« Si tu veux être grammaticalement correct, tu dois dire je n'aime pas. » 但 « J'aime pas, ça marche. »
+- ⚠️ 老師強調：**ne 可以省，名詞前的冠詞不能省**——J'aime pas **le** tennis，見 [[articles-definis]]
+
+相關：[[expressions-de-classe]]、[[changer]]、[[pronoms-personnels-sujets]]、[[aimer]]、[[parler]]

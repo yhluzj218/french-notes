@@ -43,12 +43,16 @@
 | 29 | 問職業句型 + 職業單字 | Lesson 07 | [demander-son-metier](../../10_knowledge_base/sentence_patterns/demander-son-metier.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 30 | 電話號碼／聯絡資訊 | Lesson 07 | [donner-son-numero](../../10_knowledge_base/sentence_patterns/donner-son-numero.md)、[numero-de-telephone](../../10_knowledge_base/vocabulary/numero-de-telephone.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 | 31 | 節奏群組與重音位置 Groupes rythmiques / accent tonique | Lesson 07 | [groupes-rythmiques-accent-tonique](../../10_knowledge_base/pronunciation/groupes-rythmiques-accent-tonique.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 32 | 動詞 aimer 現在式變位（-er 規則動詞 nous -ons／vous -ez）+ J'aime + 名詞 vs 原形動詞的語意差別 | Lesson 08 | [aimer](../../10_knowledge_base/vocabulary/aimer.md)、[parler-de-ses-loisirs](../../10_knowledge_base/sentence_patterns/parler-de-ses-loisirs.md) | 直接用 KB 來源練 | 已上課／已收錄 |
+| 33 | 字尾 e muet 與動詞字尾 é/è（je parle vs parlé vs parlais） | Lesson 08 | [e-muet-final-et-terminaisons-verbales](../../10_knowledge_base/pronunciation/e-muet-final-et-terminaisons-verbales.md) | 直接用 KB 來源練 | 已上課／已收錄 |
 
 > Lesson 05（2026-08-08）沒有新章節：內容是訂正作業＋既有章節 14–15（動詞變化、國籍形容詞）的大量重複操練，只在章節 15 的例字表補了 argentin/argentine、vietnamien(ne)、suédois(e) 三個字＋課本 p.22 陰陽性發音辨識練習，詳見 [adjectifs-de-nationalite](../../10_knowledge_base/grammar_notes/adjectifs-de-nationalite.md) 與 [Lesson 05 筆記](../../01_lessons/2026-08-08_lesson-05.md)。
 
 > Lesson 06（2026-08-15）新增第 25 章節（談論興趣句型），另外在既有章節補充例字，沒有另開新行：章節 13（星期／月份／日期）補疑問句「C'est quoi la date d'aujourd'hui ?」；章節 16（定冠詞）補課本 p.14 國家冠詞練習與新國家例字（le Japon、la Chine、l'Argentine、l'Algérie、l'Espagne）；章節 17（興趣 Loisirs）大量擴充新字（plonger/la plongée、conduire、la voiture、la randonnée、le dessin、les puzzles、les vinyles、l'histoire、le café、le chocolat），詳見 [Lesson 06 筆記](../../01_lessons/2026-08-15_lesson-06.md)。
 
 > Lesson 07（2026-08-22）新增第 26–31 章節（疑問詞總複習、疑問形容詞 quel、habiter + 介系詞、問職業句型、電話號碼、節奏群組與重音），另外在章節 16（定冠詞）補國家例字（le Portugal、le Canada、l'Inde），並在章節 7/19（自我介紹、國籍年齡句型）延伸出「居住地＋職業」兩個新環節，詳見 [Lesson 07 筆記](../../01_lessons/2026-08-22_lesson-07.md)。
+
+> Lesson 08（2026-10-04，新老師 Damien 線上課）新增第 32–33 章節（aimer 變位與名詞/動詞語意差、字尾 e muet 與動詞字尾發音），另外在既有章節補充：章節 16（定冠詞）補「名詞前冠詞不能省」與 le basket/les baskets；章節 17/25（興趣）補 natation/nager、danse/danser、le foot/le basket/le volley；章節 19（國籍年齡句型）補出生年份 Tu es née en quelle année ?；章節 21（否定）補 je n'aime pas / j'aime pas；章節 28（habiter + 介系詞）補 à + le/la/les 縮合成 au/en/aux 的由來、J'aime Taipei vs J'habite à Taipei、« C'est où ? — C'est en France »，並延伸到出生地 Je suis née à Taipei；另有文化單字 festival／bande dessinée（BD／comic／manga）與疾病名稱（le COVID vs la COVID），詳見 [Lesson 08 筆記](../../01_lessons/2026-10-04_lesson-08.md)。
 
 ## 更新方式
 

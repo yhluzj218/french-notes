@@ -7,7 +7,7 @@ Examples:
   - "Tu es hollandaise, Alice ? — Non, je suis allemande."
   - "Vous avez quel âge ? — J'ai 30 ans."
 Common Mistakes: 年齡句型用 avoir 不用 être（中文母語者常見誤用，中文「我是 30 歲」直覺會想用 être，見 [[avoir]]）；反問要用重讀形 Et toi ? / Et vous ?，不能說 ❌ Et tu ?（見 [[pronoms-toniques]]）
-Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話；Lesson 06（2026-08-15）補完整自我介紹串接（含興趣）與第三人稱敘述版；Lesson 07（2026-08-22）補居住地、職業兩個新環節
+Source: 課本 p.18-19 Production orale，Lesson 03（2026-07-25）；Lesson 04（2026-08-01）補 familier/formel 標註、整十數年齡與 p.18 document A 完整聽力對話；Lesson 06（2026-08-15）補完整自我介紹串接（含興趣）與第三人稱敘述版；Lesson 07（2026-08-22）補居住地、職業兩個新環節；Lesson 08（2026-10-04）補出生日期/年份與出生地 Tu es née quand ? / Tu es née où ?
 Learning Status: New
 Anki Status: Pending
 ---
@@ -93,6 +93,21 @@ Anki Status: Pending
 
 - 居住地：**Tu habites où ?** — J'habite à + [城市]／en/au/aux + [國家]，見 [[habiter]]、[[habiter-preposition-lieu]]
 - 職業：**Quel est ton métier ?** — Je suis + [職業]，見 [[demander-son-metier]]
+
+## 出生日期與出生地（Lesson 08 補）
+
+老師接在年齡後面追問：
+
+> « Tu as 40 ans, donc **tu es née en quelle année** ? »
+> « **Tu es née quand ?** » — « **Le 18 février 1986.** »（老師筆記版本，日期＋年份一起答）
+> « Moi, je suis né à Besançon. Et toi, **tu es née où ?** » — « Moi, **je suis née à** Taipei. »
+> « Maintenant, j'habite à Taipei. »
+
+- 「出生」用 **être né(e)**（不是 avoir）：je suis **né**（男）／je suis **née**（女）——發音一樣 /ne/，只有拼字差一個 e
+- 只說年份前用 **en**：Je suis née en 1986；連日期一起說就是 le + 日 + 月 + 年：le 18 février 1986
+- 1986 = mille neuf cent quatre-vingt-six（也可說 dix-neuf cent quatre-vingt-six）——70–99 的數字課堂還沒正式教，先整串記住
+- 出生地用 **à + 城市**（je suis née à Taipei），國家的話跟 habiter 同一套 au/en/aux，見 [[habiter-preposition-lieu]]
+- 生日（日期）是另一個句型：Mon anniversaire, c'est le 18 février，見 [[dire-la-date]]
 
 ## 第三人稱敘述版（Lesson 06 補）
 

@@ -5,7 +5,7 @@ Meaning: 上課時老師和學生的常用互動語
 Register: neutre
 Usage Context: 課堂上提問、請老師重複
 Example: "Tu peux répéter ? — Oui, encore une fois."
-Source: Lesson 01（2026-07-11）；Lesson 02（2026-07-18）補 Écoutez / Complétez / Associez；Lesson 03（2026-07-25）補課本 p.16「Dans la classe」正式版
+Source: Lesson 01（2026-07-11）；Lesson 02（2026-07-18）補 Écoutez / Complétez / Associez；Lesson 03（2026-07-25）補課本 p.16「Dans la classe」正式版；Lesson 08（2026-10-04）補 Tu connais... ?
 Learning Status: Learning
 Anki Status: Exported
 Anki Exported At: 2026-07-19
@@ -21,6 +21,10 @@ Anki Exported At: 2026-07-19
 - *Complétez les phrases.* /kɔ̃.ple.te le fʁaz/ — 完成句子（Lesson 02；ph = /f/）
 - *Associez.* /a.sɔ.sje/ — 配對（Lesson 02；聽力配對題指令）
 - *Bravo !* /bʁa.vo/ — 太棒了、做得好（稱讚用語）
+- *Tu connais... ?* /ty kɔ.nɛ/ — 你知道／認識……嗎？（Lesson 08 老師 Damien 用來檢查單字：« Tu connais la natation ? »；不認識就回 Non, je ne connais pas.）
+- *Est-ce que tu peux lire... ?* — 你可以唸/讀……嗎？（Lesson 08，老師請學生讀白板句子）
+- *Attention, conjugaison !* — 注意動詞變位！（Lesson 08）
+- 白板上的 **\***（astérisque）— 語言學標記，代表「這句是錯的」（Lesson 08）
 
 ## 我可以說
 

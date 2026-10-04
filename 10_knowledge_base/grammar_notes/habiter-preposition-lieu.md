@@ -9,7 +9,7 @@ Examples:
   - "Elle habite aux États-Unis.（複數國家）"
 Exceptions: 陰性且母音開頭的國家（l'Inde）也用 en：J'habite en Inde.（en 不需要 elision，跟 le/la 不同套規則）
 Related: "[[habiter]]、[[articles-definis]]、[[adjectifs-de-nationalite]]"
-Source: 課本「Choisissez la bonne préposition」練習，Lesson 07（2026-08-22）
+Source: 課本「Choisissez la bonne préposition」練習，Lesson 07（2026-08-22）；Lesson 08（2026-10-04）老師 Damien 補 à + 冠詞縮合的由來、aimer vs habiter 對比、C'est où ? 句型
 Learning Status: New
 Anki Status: Pending
 ---
@@ -36,4 +36,30 @@ Anki Status: Pending
 - 陰陽性判斷沿用 [[articles-definis]] 的國家名規則：大多數 -e 結尾是陰性（用 en），特例陽性（le Mexique 等）跟不以 -e 結尾的（le Japon、le Portugal、le Canada）用 au
 - ⚠️ **en 前面母音開頭的國家不用 elision**：en Inde（不是 ❌ en l'Inde），這點跟 le/la→l' 的規則不一樣，容易誤用
 
-相關：[[habiter]]、[[articles-definis]]、[[adjectifs-de-nationalite]]、[[dire-nationalite-age]]
+## 為什麼是 au／en／aux：à + 冠詞縮合（Lesson 08）
+
+這三個介系詞其實都是 **à + 國家原本的冠詞** 黏在一起：
+
+| 原本 | 縮合 | 例句（老師筆記）|
+|---|---|---|
+| à + **le** Japon | **au** Japon | Akiko habite à Tokyo. / Akiko habite **au** Japon. |
+| à + **la** Suisse | **en** Suisse（**只用在地理名稱**）| Isabelle habite à Genève. / Isabelle habite **en** Suisse. |
+| à + **les** États-Unis | **aux** États-Unis（x 跟母音連音 /z/）| Charles habite **aux**‿États-Unis. |
+
+所以只要知道國家的冠詞（[[articles-definis]]），介系詞就推得出來。
+
+## aimer vs habiter：同一個地名，結構不同（Lesson 08）
+
+| 句子 | 問法 | 地名的角色 | 介系詞 |
+|---|---|---|---|
+| J'aime Taipei. | J'aime **quoi** ? | 受詞（objet）| 不加 |
+| J'habite **à** Taipei. | J'habite **où** ? | 地點（lieu）| 要加 à |
+
+## 問地點在哪：C'est où ?（Lesson 08）
+
+- « Paris, c'est où ? — C'est **en** France. »（la France）
+- « Berlin, c'est où ? — C'est **en** Allemagne. »（l'Allemagne）
+- « Séoul, c'est **en** Corée. »（la Corée du Sud）
+- 同一套規則也用在出生地：Je suis née **à** Taipei，見 [[dire-nationalite-age]]
+
+相關：[[habiter]]、[[articles-definis]]、[[adjectifs-de-nationalite]]、[[dire-nationalite-age]]、[[aimer]]、[[pays]]

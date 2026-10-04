@@ -60,7 +60,7 @@
 
 ## 與實體課程的對齊（分兩個時期）
 
-使用者有每週六的法語課（課本 + cahier d'activité）。課堂角色依時期不同：
+使用者有每週一次的法語課（課本 + cahier d'activité）：2026-07 ~ 08 是週六實體課，**2026-10-04（Lesson 08）起改為週日 Zoom 線上課，老師 Damien**，Google Doc 當白板。課堂角色依時期不同：
 
 ### 時期一：跟課期（2026-07 ~ 2026-09 初，IELTS 備考中）
 
@@ -85,10 +85,19 @@
   - 慢速法語 YouTube（Français avec Pierre、Easy French、innerFrench）→ 每天一支＋shadowing
   - Audiobook shadowing（《Le Petit Prince》，每天一段）→ A2 之後
   - Tandem 語伴 → 口說輸出，配合課堂糾音
+- 換檔期每日練習補充（來源：網路分享的 TCF 備考每日練習法，2026-10-04 評估；原文與逐段取捨見 [references/2026-10-04_daily-french-practice-tcf.md](references/2026-10-04_daily-french-practice-tcf.md)）：
+  - **數字聽力，現在就開始**：[langpractice.com/french/numbers/listening](https://langpractice.com/french/numbers/listening#1,0,10000)，每天 5–10 分鐘，零碎時間就能做。先把範圍設在 0–69（課堂已教），等學了 70–99 再放寬到 0–100，最後才練年份（例如 1986）→ 對應 2026-10「數字/時間/日期」milestone
+  - **動詞變位，每天 3 個動詞**：[SchoLingua conjugation trainer](https://www.scholingua.com/en/fr/conjugation-trainer)，**目前只練現在式（présent）**，動詞取自 KB 已收錄的（être、avoir、s'appeler、habiter、parler、aimer、nager、danser…）。作者提醒要先懂各時態什麼時候用，再練那個時態的變位，所以 passé composé、imparfait 等課堂教到再加 → 對應 2026-10「現在式核心動詞」milestone；跟上面的 la-conjugaison.fr 擇一即可
+  - **Anki 一旦開始就每天複習，絕不跳過**：間隔重複的待複習量會一天天累積，跳一天隔天就翻倍。適用於自製卡（`08_ai/anki/decks/`）開始匯入 Anki 之後；**不採用**作者的現成 3000+ 字 TCF 牌組（理由同 [phase1_practice_guide](../phase1_practice_guide.md) 工具⑥）
+  - **學一個字要連周邊文法一起學**：名詞連冠詞＋陰陽性（KB 模板已有）、形容詞連陰陽單複四種形式、動詞連搭配的介系詞（habiter à、parler à/avec…，已加進 TEMPLATE_verb 的 Construction 欄位）；意思相近的字要弄清楚差別
+  - **延後到 A2（或約 1000 字）**：LingQ 每日課程 → 被動聽力（法語配音影集、YouTube、innerFrench）、AI 語音模式口說練習。作者本人也說太早開始會非常困難
+  - **暫不採用**：英翻法造句對答案（Simple Writing Practice）屬 Output Drill，CLAUDE.md 第一版明定先不做
 
 ### 換檔後的再評估條件
 
 當自學進度領先課堂**超過一個單元**（預估 2026-11 ~ 12 發生）→ 評估把每週六團課換成或加上 italki 一對一（照自己進度走）。團課屆時的殘餘價值是口說團體練習，去留看當時感受。
+
+> 2026-10-04 更新：課程已改為週日 Zoom 線上課（Lesson 08 那堂只有 Connie 一位學生）。這條再評估條件原本是針對週六團課寫的，如果週日課固定是一對一，就改成評估「課堂進度能不能配合自學進度」。
 
 課程進度記錄在各 lesson 筆記的「下週課程」區塊與 dashboard 的 Recent Lessons。
 
